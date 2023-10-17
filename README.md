@@ -91,11 +91,3 @@ npm start
 ```
 The frontend should run on http://localhost:4200/. Visit this address to see the app in your browser.
 
-
-# SUBMISSION.md
-Please fill out the SUBMISSION.md file to ensure we have your name attached to the project.
-
-
-# Questions?
-
-Email datasolutions@okcthunder.com
